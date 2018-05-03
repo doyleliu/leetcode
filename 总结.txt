@@ -1,0 +1,19 @@
+没啥思路：
+4
+思路不清晰：
+
+边界条件过多
+6 7
+
+超时：
+11 15
+
+有点慢：
+16
+
+tips：
+
+6、focus when length = 1;
+7、 over 32 bit
+11、 focus that the time limit is o(n)
+15、 the useage of List, ArrayList in Java
