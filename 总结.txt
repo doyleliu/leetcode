@@ -13,7 +13,8 @@
 
 tips：
 
-6、focus when length = 1;
-7、 over 32 bit
-11、 focus that the time limit is o(n)
-15、 the useage of List, ArrayList in Java
+6.focus when length = 1;
+7. over 32 bit
+11. focus that the time limit is o(n)
+15. the useage of List, ArrayList in Java
+17. Be careful of the useage of ArrayList
