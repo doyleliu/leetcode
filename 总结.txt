@@ -1,6 +1,7 @@
 没啥思路：
 4
 思路不清晰：
+18
 
 边界条件过多
 6 7
@@ -18,3 +19,4 @@ tips：
 11. focus that the time limit is o(n)
 15. the useage of List, ArrayList in Java
 17. Be careful of the useage of ArrayList
+18. Realize the soultuion in a simpler way
