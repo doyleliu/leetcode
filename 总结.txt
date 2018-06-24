@@ -1,5 +1,5 @@
 没啥思路：
-4
+4 22
 思路不清晰：
 18
 
@@ -20,3 +20,4 @@ tips：
 15. the useage of List, ArrayList in Java
 17. Be careful of the useage of ArrayList
 18. Realize the soultuion in a simpler way
+20. java.util.Stack
