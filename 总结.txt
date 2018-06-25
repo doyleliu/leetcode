@@ -4,13 +4,13 @@
 18
 
 边界条件过多
-6 7
+6 7 28 29
 
 超时：
-11 15
+11 15 29
 
 有点慢：
-16
+16 26
 
 tips：
 
@@ -21,3 +21,4 @@ tips：
 17. Be careful of the useage of ArrayList
 18. Realize the soultuion in a simpler way
 20. java.util.Stack
+29. Be careful to the soultuion
