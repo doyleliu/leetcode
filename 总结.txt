@@ -1,16 +1,19 @@
 没啥思路：
 4 22
 思路不清晰：
-18
+18 31 39
 
 边界条件过多
-6 7 28 29
+6 7 28 29 33
 
 超时：
 11 15 29
 
 有点慢：
 16 26
+
+题目难懂：
+38
 
 tips：
 
@@ -22,3 +25,13 @@ tips：
 18. Realize the soultuion in a simpler way
 20. java.util.Stack
 29. Be careful to the soultuion
+33. consider carefully all the boundaries
+39. be careful of the recursion
+40. dfs
+
+
+
+refer:
+1. A general approach to backtracking questions in Java (Subsets, Permutations, Combination Sum, Palindrome Partitionin
+    https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+
