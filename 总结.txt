@@ -16,7 +16,7 @@
 38
 
 典型题目：
-46
+46 53
 
 tips：
 
@@ -32,6 +32,7 @@ tips：
 39. be careful of the recursion
 40. dfs
 43. be patient
+56. need to know how to sort a java List
 
 
 
