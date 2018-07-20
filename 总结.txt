@@ -7,7 +7,7 @@
 6 7 28 29 33
 
 超时：
-11 15 29 62
+11 15 29 62 79
 
 有点慢：
 16 26
@@ -16,7 +16,12 @@
 38
 
 典型题目：
-46 53
+46 53 81
+
+还有提升的空间(思考)：
+73 75
+
+
 
 tips：
 
@@ -33,6 +38,8 @@ tips：
 40. dfs
 43. be patient
 56. need to know how to sort a java List
+60. fibonacci recursion into for 
+71. be careful the difference between str == ".." and str.equals("..")
 
 
 
