@@ -1,7 +1,7 @@
 没啥思路：
 4 22
 思路不清晰：
-18 31 39 43
+18 31 39 43 95 96
 
 边界条件过多
 6 7 28 29 33
@@ -16,7 +16,7 @@
 38
 
 典型题目：
-46 53 81
+46 53 81 96 98
 
 还有提升的空间(思考)：
 73 75
@@ -40,6 +40,7 @@ tips：
 56. need to know how to sort a java List
 60. fibonacci recursion into for 
 71. be careful the difference between str == ".." and str.equals("..")
+98. need to foucus on the traversal.
 
 
 
