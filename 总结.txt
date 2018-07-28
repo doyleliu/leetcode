@@ -16,7 +16,7 @@
 38
 
 典型题目：
-46 53 81 96 98
+46 53 81 96 98 120
 
 还有提升的空间(思考)：
 73 75
@@ -41,6 +41,7 @@ tips：
 60. fibonacci recursion into for 
 71. be careful the difference between str == ".." and str.equals("..")
 98. need to foucus on the traversal.
+120. need to done it in a reverse way.
 
 
 
