@@ -1,5 +1,5 @@
 没啥思路：
-4 22
+4 22 127 132
 思路不清晰：
 18 31 39 43 95 96
 
@@ -7,7 +7,7 @@
 6 7 28 29 33
 
 超时：
-11 15 29 62 79 91
+11 15 29 62 79 91 123
 
 有点慢：
 16 26
@@ -16,7 +16,7 @@
 38
 
 典型题目：
-46 53 81 96 98 120
+46 53 81 96 98 120 123 130
 
 还有提升的空间(思考)：
 73 75
@@ -42,6 +42,9 @@ tips：
 71. be careful the difference between str == ".." and str.equals("..")
 98. need to foucus on the traversal.
 120. need to done it in a reverse way.
+123. dynamic programming
+125. s.toUpperCase();
+130. StackOverFlowError.
 
 
 
