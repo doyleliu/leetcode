@@ -22,7 +22,7 @@
 46 53 81 96 98 120 123 130
 
 还有提升的空间(思考)：
-73 75 136 151 189
+73 75 136 151 189 209
 
 
 
@@ -49,6 +49,7 @@ tips：
 125. s.toUpperCase();
 130. StackOverFlowError.
 189. O(1) space
+209. Here is a 10-line template that can solve most 'substring' problems ref:https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
 
 
 
